@@ -1,11 +1,10 @@
-# Crypto Currencies Converter
+# React - Currency Converter
 
-This is a simple crypto currency converter using data from coin gecko public REST APIS.
+This is a simple currency converter for stable coins.
 
 ## Tech
 
 - [React](https://reactjs.org/docs/create-a-new-react-app.html)
-- [Redux](https://react-redux.js.org/)
 - [Semantic UI](https://react.semantic-ui.com/)
 
 ## Available Scripts
